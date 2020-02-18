@@ -1,0 +1,4 @@
+Inventory Manager App
+
+
+An interactive and easy to use app to manage inventory. User can add products with the details like Product image, Name, Supplier Details, Quantity with various units and price. The products added by the user will be stored locally in the device in an SQLite database. The list of products already added will be shown in the main screen of the application, each list item contains a “Sale” button which reduces the quantity of the product stored in the data base. User can capture the photo of the product using the phones camera, the image will be saved with all the other details of the project. User can edit any details about the product added. An order from supplier button is present in the detail screen which redirects the user to the email app with appropriate product details and the supplier’s email.
