@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the gender drop-down Spinner -->
+    <string-array name="unit_options">
+        <item>@string/units</item>
+        <item>@string/kgs</item>
+        <item>@string/boxes</item>
+        <item>@string/pcs</item>
+        <item>@string/packets</item>
+    </string-array>
+</resources>
